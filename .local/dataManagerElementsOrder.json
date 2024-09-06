@@ -12,11 +12,17 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "dtClientDataOutput&Sequence_1",
+        "dt_Sheet1Data&Sequence_1",
         "dtClientData&Sequence_1",
-        "dt_Sheet1Data&Sequence_1"
+        "dtClientDataOutput&Sequence_1",
+        "inBrowserInstance&Sequence_1",
+        "BrowserOutput&Sequence_1",
+        "ClientBtnExist&Sequence_3",
+        "DR&Sequence_9"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "inBrowser"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
@@ -24,11 +30,14 @@
       "Path": "LoginModule.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "LoginPage&Sequence_2",
         "Password&Sequence_1",
         "Email&Sequence_1",
         "BrowserOutput&Sequence_1"
       ],
-      "ArgumentsSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "outBrowserInstance"
+      ],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     }

@@ -12,12 +12,12 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "theDate&Sequence_1",
         "dt_Sheet1Data&Sequence_1",
         "dtClientData&Sequence_1",
         "dtClientDataOutput&Sequence_1",
         "inBrowserInstance&Sequence_1",
         "BrowserOutput&Sequence_1",
-        "ClientBtnExist&Sequence_3",
         "DR&Sequence_9"
       ],
       "ArgumentsSectionElementsOrder": [
